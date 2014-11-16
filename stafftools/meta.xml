@@ -1,0 +1,8 @@
+<meta>
+    <script src="staffserver.lua" type="server" />
+    <script src="staffclient.lua" type="client" />
+    <script src="occupation.lua" type="server" />
+    <script src="server1.lua" type="server" />
+	<script src="addons/vehiclefunctions/car_god.lua" type="server" />
+	<script src="addons/forcefunctions/reconnect.lua" type="server" />
+</meta>
